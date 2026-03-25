@@ -45,5 +45,7 @@ The simulation generates:
 - Single-zone building model  
 - Cooling setpoint: 26°C  
 - Heating setpoint: 17–21°C (schedule-based)  
-- Simplified solar and occupancy models  
+- Simplified solar and occupancy models
+- ---
+You can open the CSV files in Excel or visualize the plots directly from the `outputs/plots` folder.
 
