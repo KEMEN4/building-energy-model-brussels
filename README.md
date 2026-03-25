@@ -1,7 +1,7 @@
 # building-energy-model-brussels
 Dynamic building energy simulation using a simplified RC model. Includes heating, cooling, solar gains, and heat pump electricity modeling for Brussels climate.
 
-# 🏠 Building Energy Simulation – Brussels nZEB
+#  Building Energy Simulation – Brussels nZEB
 
 This project simulates the thermal behavior and energy consumption of a residential building located in Brussels.
 
@@ -12,7 +12,7 @@ It computes:
 
 ---
 
-## ⚙️ Model Description
+##  Model Description
 
 The model is based on a simplified energy balance:
 
@@ -27,12 +27,12 @@ Main components:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 via/scr
 
 ---
 
-## 📊 Outputs
+##  Outputs
 
 The simulation generates:
 - CSV files (hourly, daily, monthly results)
@@ -40,7 +40,7 @@ The simulation generates:
 
 ---
 
-## 📌 Key Assumptions
+## Assumptions
 
 - Single-zone building model  
 - Cooling setpoint: 26°C  
