@@ -139,7 +139,7 @@ def compute_internal_gains(weather_index, G_Wm2=None):
 if __name__ == "__main__":
     import pandas as pd
 
-    idx = pd.date_range("2025-01-01", periods=24, freq="H")
+    idx = pd.date_range("2025-01-01", periods=24, freq="h")
     results = compute_internal_gains(idx)
 
     print("Internal gains test:")
